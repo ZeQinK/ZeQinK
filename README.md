@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZeQinK
-- 👀 I’m interested in computing
+- 👀 I’m passionate in computing
 - 🌱 I know how to code in Python, SwiftUI, HTML, CSS and JS! 
 
 <!---
