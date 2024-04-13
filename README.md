@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ZeQinK
-- 👀 I’m passionate in computing
+- 👀 I’m a passionate computing students
+- ✨ I love to create meaningful project that helps the society! 
 - 🌱 I know how to code in Python, SwiftUI, HTML, CSS and JS! 
 
 <!---
